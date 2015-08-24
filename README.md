@@ -8,4 +8,4 @@ This python simulation is inspired after this [blog post](http://blog.godatadriv
 
 #Contents:
 
-The file gambler.py runs two gambling simulations based on roulette.  The first simply simulates 200 series of 500 bets each using the probability of winning in roulette.  The odds of winning an individual bets is 18/37.  The second simulation implements the Martingdale system with the following default values: Starting bet = 1, Starting money = 500 and a maximum allowed bet of 1024.
+The file gambler.py runs two gambling simulations based on the game of roulette.  The first simulates 200 series of 500 equal bets using the probability of winning in roulette.  The odds of winning an individual bet is 18/37.  The second simulation implements the Martingdale system with the following default values: Starting bet = 1, Starting money = 500 and a maximum allowed bet of 1024.
